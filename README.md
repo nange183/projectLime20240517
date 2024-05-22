@@ -13,3 +13,7 @@ bj.download.cycore.cn [元素周期表](http://bj.download.cycore.cn/res/c3eed62
 static.zhixue.com [通行证隐私政策](http://static.zhixue.com/rqactivity/protocol/iflytek_edu_account_protocol_v1.html) awa [通行证隐私政策主站](http://static.zhixue.com)  
 
 www.ets100.com [yee听说注册协议](http://www.ets100.com/home/userAgreement.html) lol [yee听说主站](http://www.ets100.com)  
+
+## 以ets100为基础的file分享链接  
+
+/share/97Jdp95t [家-砂糖-测试](http://www.ets100.com/share/97Jdp95t)  
