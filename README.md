@@ -2,6 +2,8 @@
 ## 认准githubIP:20.205.243.166
 自用，提供亿个超链接，别管这是啥  
 [https://limestart.cn/](https://limestart.cn/)  
+[http://github.com/](http://github.com/)  
+
 
   
 ## n大巨头网站可通行 链接均为http  
@@ -17,3 +19,5 @@ www.ets100.com [yee听说注册协议](http://www.ets100.com/home/userAgreement.
 ## 以ets100为基础的file分享链接  
 
 /share/97Jdp95t [家-砂糖-测试](http://www.ets100.com/share/97Jdp95t)  
+
+/share/3bUEBu3z [家-全部番](http://www.ets100.com/share/3bUEBu3z)
