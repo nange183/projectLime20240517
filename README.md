@@ -16,6 +16,11 @@ static.zhixue.com [通行证隐私政策](http://static.zhixue.com/rqactivity/pr
 
 www.ets100.com [yee听说注册协议](http://www.ets100.com/home/userAgreement.html) lol [yee听说主站](http://www.ets100.com)  
 
+## ets100不同端口  
+
+[1145](http://www.ets100.com:1145)  
+
+
 ## 以ets100为基础的file分享链接  
 
 /share/97Jdp95t [家-砂糖-测试](http://www.ets100.com/share/97Jdp95t)  
