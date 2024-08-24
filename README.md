@@ -24,9 +24,11 @@ www.ets100.com [yee听说注册协议](http://www.ets100.com/home/userAgreement.
 
 [800](http://www.ets100.com:800)  
 
-[1145](http://www.ets100.com:1145 )  
+[1145](http://www.ets100.com:1145)  
 
 [1234](http://www.ets100.com:1234)  
+
+[3002](http://www.ets100.com:3002)  
 
 [10086](http://www.ets100.com:10086)  
 
